@@ -49,6 +49,10 @@ namespace Mp3PlayerWPF
         { 
             get { return player.currentMedia.durationString; }
         }
+        public WMPPlayState PlayerState
+        {
+            get { return player.playState; }
+        }
 
         public Mp3Player()
         {

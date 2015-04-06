@@ -18,6 +18,7 @@ using System.Windows.Forms;
 using System.Drawing;
 using Mp3PlayerWPF;
 using SongClass;
+using WMPLib;
 
 
 namespace Mp3PlayerWPFApp
@@ -97,6 +98,13 @@ namespace Mp3PlayerWPFApp
             lblTime.Content = mp3Player.CurrentPositionString;
             if (mp3Player.CurrentPosition != 0 && dragStarted != true)
                 sldTime.Value = sldTime.Maximum / mp3Player.CurrentSongDuration * mp3Player.CurrentPosition;
+            if(mp3Player.PlayerState == WMPLib.WMPPlayState.wmppsStopped)
+            {
+                mp3Player.Stop();
+                timer.Stop();
+                lblTime.Content = "00:00";
+                sldTime.Value = 0; 
+            }
         }
 
         private void sldTime_PreviewMouseUp(object sender, MouseButtonEventArgs e)
