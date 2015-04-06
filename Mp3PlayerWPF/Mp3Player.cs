@@ -107,5 +107,6 @@ namespace Mp3PlayerWPF
             bitmap.Freeze();
             return bitmap;
         }
+
     }
 }
