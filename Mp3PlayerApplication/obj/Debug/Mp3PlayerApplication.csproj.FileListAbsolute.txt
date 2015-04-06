@@ -1,0 +1,13 @@
+D:\Projects\Visual Studio 2013\Mp3PlayerApplication\Mp3PlayerApplication\bin\Debug\Mp3PlayerApplication.exe.config
+D:\Projects\Visual Studio 2013\Mp3PlayerApplication\Mp3PlayerApplication\bin\Debug\Mp3PlayerApplication.exe
+D:\Projects\Visual Studio 2013\Mp3PlayerApplication\Mp3PlayerApplication\bin\Debug\Mp3PlayerApplication.pdb
+D:\Projects\Visual Studio 2013\Mp3PlayerApplication\Mp3PlayerApplication\obj\Debug\Mp3PlayerApplication.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio 2013\Mp3PlayerApplication\Mp3PlayerApplication\obj\Debug\Mp3PlayerApplication.Form1.resources
+D:\Projects\Visual Studio 2013\Mp3PlayerApplication\Mp3PlayerApplication\obj\Debug\Mp3PlayerApplication.Properties.Resources.resources
+D:\Projects\Visual Studio 2013\Mp3PlayerApplication\Mp3PlayerApplication\obj\Debug\Mp3PlayerApplication.csproj.GenerateResource.Cache
+D:\Projects\Visual Studio 2013\Mp3PlayerApplication\Mp3PlayerApplication\obj\Debug\Mp3PlayerApplication.exe
+D:\Projects\Visual Studio 2013\Mp3PlayerApplication\Mp3PlayerApplication\obj\Debug\Mp3PlayerApplication.pdb
+D:\Projects\Visual Studio 2013\Mp3PlayerApplication\Mp3PlayerApplication\obj\Debug\Interop.WMPLib.dll
+D:\Projects\Visual Studio 2013\Mp3PlayerApplication\Mp3PlayerApplication\obj\Debug\Mp3PlayerApplication.csproj.ResolveComReference.cache
+D:\Projects\Visual Studio 2013\Mp3PlayerApplication\Mp3PlayerApplication\bin\Debug\Mp3Class.dll
+D:\Projects\Visual Studio 2013\Mp3PlayerApplication\Mp3PlayerApplication\bin\Debug\Mp3Class.pdb

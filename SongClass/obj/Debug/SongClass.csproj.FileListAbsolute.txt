@@ -1,0 +1,12 @@
+D:\Projects\Visual Studio 2013\Mp3PlayerApplication\SongClass\bin\Debug\SongClass.dll
+D:\Projects\Visual Studio 2013\Mp3PlayerApplication\SongClass\bin\Debug\SongClass.pdb
+D:\Projects\Visual Studio 2013\Mp3PlayerApplication\SongClass\obj\Debug\SongClass.dll
+D:\Projects\Visual Studio 2013\Mp3PlayerApplication\SongClass\obj\Debug\SongClass.pdb
+D:\Projects\Visual Studio 2013\Mp3PlayerApplication\SongClass\obj\Debug\SongClass.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio 2013\Mp3PlayerApplication\SongClass\obj\Debug\Interop.WMPLib.dll
+D:\Projects\Visual Studio 2013\Mp3PlayerApplication\SongClass\obj\Debug\SongClass.csproj.ResolveComReference.cache
+D:\Projects\Visual Studio 2013\Mp3PlayerApplication\SongClass\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Projects\Visual Studio 2013\Mp3PlayerApplication\SongClass\bin\Debug\Id3Lib.dll
+D:\Projects\Visual Studio 2013\Mp3PlayerApplication\SongClass\bin\Debug\Mp3Lib.dll
+D:\Projects\Visual Studio 2013\Mp3PlayerApplication\SongClass\bin\Debug\Id3Lib.pdb
+D:\Projects\Visual Studio 2013\Mp3PlayerApplication\SongClass\bin\Debug\Mp3Lib.pdb
