@@ -3,15 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mp3PlayerApplication", "Mp3PlayerApplication\Mp3PlayerApplication.csproj", "{77B9178B-476D-4218-B76E-5E5FEF83AFFA}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mp3Class", "Mp3Class\Mp3Class.csproj", "{FEF8955A-744D-47F8-B2DF-50660442FCDA}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SongClass", "SongClass\SongClass.csproj", "{ED83669C-FBBF-4E76-ABC0-2D1F3CBBD8C7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mp3PlayerWPFApp", "Mp3PlayerWPFApp\Mp3PlayerWPFApp.csproj", "{EFF4392D-2337-45D3-B855-A84B07E1FC12}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mp3PlayerWPF", "Mp3PlayerWPF\Mp3PlayerWPF.csproj", "{3B46ADF9-86C7-4F28-8288-1563FD8BF6F0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mp3PlayerClass", "Mp3PlayerWPF\Mp3PlayerClass.csproj", "{3B46ADF9-86C7-4F28-8288-1563FD8BF6F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,14 +15,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{77B9178B-476D-4218-B76E-5E5FEF83AFFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{77B9178B-476D-4218-B76E-5E5FEF83AFFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{77B9178B-476D-4218-B76E-5E5FEF83AFFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{77B9178B-476D-4218-B76E-5E5FEF83AFFA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{FEF8955A-744D-47F8-B2DF-50660442FCDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FEF8955A-744D-47F8-B2DF-50660442FCDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FEF8955A-744D-47F8-B2DF-50660442FCDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FEF8955A-744D-47F8-B2DF-50660442FCDA}.Release|Any CPU.Build.0 = Release|Any CPU
 		{ED83669C-FBBF-4E76-ABC0-2D1F3CBBD8C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{ED83669C-FBBF-4E76-ABC0-2D1F3CBBD8C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED83669C-FBBF-4E76-ABC0-2D1F3CBBD8C7}.Release|Any CPU.ActiveCfg = Release|Any CPU

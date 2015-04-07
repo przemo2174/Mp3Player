@@ -11,7 +11,7 @@ using WMPLib;
 using Microsoft.Win32;
 using System.Windows.Forms;
 
-namespace Mp3PlayerWPF
+namespace Mp3PlayerClass
 {
     public class Mp3Player
     {

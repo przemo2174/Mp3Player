@@ -96,9 +96,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Mp3PlayerWPF\Mp3PlayerWPF.csproj">
+    <ProjectReference Include="..\Mp3PlayerWPF\Mp3PlayerClass.csproj">
       <Project>{3b46adf9-86c7-4f28-8288-1563fd8bf6f0}</Project>
-      <Name>Mp3PlayerWPF</Name>
+      <Name>Mp3PlayerClass</Name>
     </ProjectReference>
     <ProjectReference Include="..\SongClass\SongClass.csproj">
       <Project>{ed83669c-fbbf-4e76-abc0-2d1f3cbbd8c7}</Project>

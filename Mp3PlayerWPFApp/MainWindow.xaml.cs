@@ -16,7 +16,7 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.Windows.Forms;
 using System.Drawing;
-using Mp3PlayerWPF;
+using Mp3PlayerClass;
 using SongClass;
 using WMPLib;
 
@@ -103,7 +103,7 @@ namespace Mp3PlayerWPFApp
                 mp3Player.Stop();
                 timer.Stop();
                 lblTime.Content = "00:00";
-                sldTime.Value = 0; 
+                sldTime.Value = 0;
             }
         }
 
